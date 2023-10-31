@@ -1,0 +1,1 @@
+DELETE https://api.funbit.me/funbit/v2/player/inskill/batch?gender=2&levelIds=1,2,3,4,5,6,7,8&newBie=0&order=desc&page=1&positionIds=1,2,3,4,5,6,7,8&rows=1&skillId=1&sort=auditTime
